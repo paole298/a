@@ -1,0 +1,8 @@
+2025-01-01,新年伊始，给自己定了好多小目标，要加油啦！,https://example.com/movie1.m3u8
+2025-01-02,今天尝试做了新菜，虽然过程有点曲折，但味道还不错哦。,https://example.com/movie2.m3u8
+2025-01-03,午后读了一本温暖的小说，沉浸在故事里，心情格外平静。,https://example.com/movie3.m3u8
+2025-01-04,出门偶遇一只超可爱的小猫，萌化了~好想养一只。,https://example.com/movie4.m3u8
+2025-01-05,工作上遇到点小难题，不过和同事们一起讨论解决了，团队力量大！,https://example.com/movie5.m3u8
+2025-01-06,晚上看了一场美丽的烟花，璀璨夺目，感觉所有烦恼都消散了。,https://example.com/movie6.m3u8
+2025-01-07,去公园散步，呼吸新鲜空气，看到好多绽放的花朵，春天快来啦。,https://example.com/movie7.m3u8
+2025-01-08,和朋友煲电话粥，分享了最近的生活点滴，好开心。,https://example.com/movie8.m3u8
